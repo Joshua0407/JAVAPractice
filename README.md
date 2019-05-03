@@ -1,2 +1,2 @@
-1. javac programName.java => ½sÄ¶
-2. java programName => °õ¦æ
+1. javac programName.java => ç·¨è­¯
+2. java programName => åŸ·è¡Œ
