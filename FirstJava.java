@@ -1,5 +1,7 @@
 public class FirstJava {
-    public static void main(String [] args) {
-      System.out.println("JAVA");
-  }  
+  public static void main(String [] args) {
+    System.out.println("JAVA");
+  }
 }
+
+
